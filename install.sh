@@ -16,3 +16,4 @@ npm install fluent-ffmpeg
 npm install imgbb-uploader
 
 echo "DONE INSTALLING ALL PACKAGE REQUIRE, NOW RUN npm start"
+echo "SUBSCRIBE MY YOUTUBE CHANNEL PLEASE CHIRAG YOUTUBER 
