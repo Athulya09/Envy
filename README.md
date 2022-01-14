@@ -7,7 +7,7 @@
 
 
 <div align="center">
-<img src="life.jpg" alt="Pepe" width="170" />
+<img src="life.jpg" alt="CHIRAG YOUTUBER" width="170" />
 
 # Bosco Bot
 
@@ -22,7 +22,7 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com) 
 <p align="center">
- <a href="https://github.com/pepesir"><img title="Author" src="https://img.shields.io/badge/Author-Pepe-blue.svg?style=for-the-badge&logo=github" /></a>  <a href="https://Wa.me/+919536476115?text=Hello%20P3P3%20Bro🌝...fen%20boi%20aan😌💝"><img title="Author" src="https://img.shields.io/badge/Owner-Pepe-blue.svg?style=for-the-badge&logo=whatsapp" /></a>
+ <a href="github.com/LOSTHACKEROFC"><img title="Author" src="https://img.shields.io/badge/Author-Pepe-blue.svg?style=for-the-badge&logo=github" /></a>  <a href="https://Wa.me/+919536476115?text=Hello%20P3P3%20Bro🌝...fen%20boi%20aan😌💝"><img title="Author" src="https://img.shields.io/badge/Owner-Pepe-blue.svg?style=for-the-badge&logo=whatsapp" /></a>
 <p align="center">
 <a href="https://chat.whatsapp.com/Czdj9bWAcvo75MjRHTUb2F"><img title="Author" src="https://img.shields.io/badge/Watsapp-Group-blue.svg?style=for-the-badge&logo=whatsapp" /></a> <a href="https://youtube.com/c/chiragyoutuber"><img title="Author" src="https://img.shields.io/badge/Youtube-PEPESIR-blue.svg?style=for-the-badge&logo=youtube" /></a>
 </p>
@@ -62,7 +62,7 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 ## `FOR TERMUX`
 
 * Yeah , It's now available for termux
-* First fork this repo and change session in <a href="https://github.com/pepesir/Bosco/blob/master/Denis.json">Denis.json</a> ,Then follow these commands ✅
+* First fork this repo and change session in <a href="https://github.coco/LOSTHACKEROFC Bosco/blob/master/Denis.json">Denis.json</a> ,Then follow these commands ✅
 * NOTE : U HAVE CLONE YOUR FORKED REPO , NOT MINE REPO
 
 
