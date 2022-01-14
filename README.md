@@ -7,7 +7,7 @@
 
 
 <div align="center">
-<img src="life.jpg" alt="CHIRAG YOUTUBER" width="170" />
+<img src="logo.jpg" alt="CHIRAG YOUTUBER" width="170" />
 
 # Bosco Bot
 
